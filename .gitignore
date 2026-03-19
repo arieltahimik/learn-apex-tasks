@@ -1,0 +1,17 @@
+# Ignore everything
+*
+
+# But NOT these (whitelist)
+!force-app/
+!force-app/main/
+!force-app/main/default/
+!force-app/main/default/classes/
+!force-app/main/default/classes/**
+
+!scripts/
+!scripts/apex/
+!scripts/apex/tasks/
+!scripts/apex/tasks/**
+
+# Also keep the .gitignore itself
+!.gitignore
