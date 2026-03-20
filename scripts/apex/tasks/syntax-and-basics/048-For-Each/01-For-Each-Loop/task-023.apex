@@ -1,12 +1,16 @@
 /*
-Write a method named 'addStringAfterEach' that takes a list of strings and a string as parameters. The method should append the given string parameter after each string in the given list. However, this operation should only be performed for strings in the list with a length less than 5. Additionally, even if the given string parameter is null or empty, the method should still perform the operation.
+Write a method named 'addStringAfterEach' that takes a list of strings and a string as parameters. 
+The method should append the given string parameter after each string in the given list. 
+However, this operation should only be performed for strings in the list with a length less than 5. 
+Additionally, even if the given string parameter is null or empty, the method should still perform the operation.
 
 After appending the string parameter, the method should return a newly created list containing the modified strings.
 
 Requirements:
 - If the given list is null, the method should return an empty list.
 - If the given list is empty, the method should return an empty list.
-- The method should add the given string to each element of the given string list if the element of the string has less than 5 characters, and return a new list consisting of the modified strings.
+- The method should add the given string to each element of the given string list 
+if the element of the string has less than 5 characters, and return a new list consisting of the modified strings.
 */
 
 
