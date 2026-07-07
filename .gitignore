@@ -10,8 +10,6 @@
 
 !scripts/
 !scripts/apex/
-!scripts/apex/tasks/
-!scripts/apex/tasks/**
 
 # Also keep the .gitignore itself
 !.gitignore
